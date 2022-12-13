@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Emilia",
+      "email": "emilia@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "johney1",
+      "email": "johney@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Bob 2",
+      "email": "bob@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "dummy1",
+      "email": "dummy@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Nguyen DucTuan",
+      "email": "nguyenductuan05102002@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Duc Tuan Fpt (k16..3)",
+      "email": "tuanndph16237@fpt.edu.com",
+      "id": 8
+    },
+    {
+      "name": "Duc Tuan Nguyen ",
+      "email": "tuanndph16237@fpt.edu.vn",
+      "id": 9
+    }
+  ]
+}
